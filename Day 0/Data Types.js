@@ -1,7 +1,3 @@
-/*
- * Author: Pavith Bambaravanage
- * URL: https://github.com/Pavith19
-*/
 
 /**
 *   The variables 'firstInteger', 'firstDecimal', and 'firstString' are declared for you -- do not modify them.
@@ -38,3 +34,4 @@ function performOperation(secondInteger, secondDecimal, secondString) {
     console.log(firstString.concat(secondString));
     
 }
+
