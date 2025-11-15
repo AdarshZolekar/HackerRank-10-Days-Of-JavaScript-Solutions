@@ -1,7 +1,3 @@
-/*
- * Author: Pavith Bambaravanage
- * URL: https://github.com/Pavith19
-*/
 
 /*
 *   Calculate the area of a rectangle.
@@ -32,3 +28,4 @@ function getPerimeter(length, width) {
     perimeter = 2 * (length + width);
     return perimeter;
 }
+
