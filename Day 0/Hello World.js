@@ -1,7 +1,3 @@
-/*
- * Author: Pavith Bambaravanage
- * URL: https://github.com/Pavith19
-*/
 
 /**
 *   A line of code that prints "Hello, World!" on a new line is provided in the editor. 
@@ -18,3 +14,4 @@ function greeting(parameterVariable) {
     // Write a line of code that prints parameterVariable to stdout using console.log:
     
 }
+
