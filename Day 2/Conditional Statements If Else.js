@@ -1,8 +1,3 @@
-/*
- * Author: Pavith Bambaravanage
- * URL: https://github.com/Pavith19
-*/
-
 function getGrade(score)
 {
     let grade;
@@ -40,3 +35,4 @@ function getGrade(score)
     
     return grade;
 }
+
