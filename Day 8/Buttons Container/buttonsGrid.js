@@ -1,7 +1,3 @@
-/*
- * Author: Pavith Bambaravanage
- * URL: https://github.com/Pavith19
-*/
 
 var b=document.getElementById('btn5');
 var arr=[1,2,3,6,9,8,7,4];
